@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\SecondProject\\GenericType\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3686394-C373-47C4-A8FE-EB7F03E0B5D4}|GenericType\\GenericType.csproj|c:\\users\\user\\onedrive\\desktop\\documents\\secondproject\\generictype\\generictype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3686394-C373-47C4-A8FE-EB7F03E0B5D4}|GenericType\\GenericType.csproj|solutionrelative:generictype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3686394-C373-47C4-A8FE-EB7F03E0B5D4}|GenericType\\GenericType.csproj|c:\\users\\user\\onedrive\\desktop\\documents\\secondproject\\generictype\\generictype\\listint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3686394-C373-47C4-A8FE-EB7F03E0B5D4}|GenericType\\GenericType.csproj|solutionrelative:generictype\\listint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListInt.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\SecondProject\\GenericType\\GenericType\\ListInt.cs",
+              "RelativeDocumentMoniker": "GenericType\\ListInt.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\SecondProject\\GenericType\\GenericType\\ListInt.cs*",
+              "RelativeToolTip": "GenericType\\ListInt.cs*",
+              "ViewState": "AgIAADYAAAAAAAAAAAAwwEQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T03:01:32.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\SecondProject\\GenericType\\GenericType\\Program.cs",
+              "RelativeDocumentMoniker": "GenericType\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Documents\\SecondProject\\GenericType\\GenericType\\Program.cs*",
+              "RelativeToolTip": "GenericType\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T02:58:55.767Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
